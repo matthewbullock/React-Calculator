@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+.Calculator {
+  width: 200px;
+  margin: 0 auto;
+  background-color: #213649;
+}
+
+.Screen {
+    height: 50px;
+    font-size: 28px;
+    color: #213649;
+    background-color: #FD9427;
+    border: 1px solid #213649;
+}
+
+.Screen p {
+  line-height: 50px;
+  text-align: right;
+  margin: 0 10px 0 0;
+}
+
+.grey {
+  background-color: #46566c!important;
+}
+
+.square {
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  background-color: transparent;
+  color: white;
+  border: none;
+  border-radius: 0;
+  cursor: pointer;
+}
+
+.full {
+  width: 200px !important;
+}
